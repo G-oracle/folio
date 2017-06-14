@@ -1,0 +1,125 @@
+#header-background{
+    text-align: center;
+    background-color: rgba(147, 145, 145, 0.65);
+    margin-left: 0px;
+    margin-top: -20px;
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/bl.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
+
+#image{
+    text-align: center;
+}
+#image img{
+    height: 150px;
+    width: 150px;
+    border: 1px solid rgba(202, 191, 191, 0.47);
+    border-radius: 100pt;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+#Overview{
+    background-color: #fff;
+    height: 80vh;
+    width: 70vw;
+    margin: -310px auto 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid rgba(107, 116, 116, 0.53);
+    box-shadow: 2px 2px 12px 0px rgb(146, 159, 179);
+   
+}
+#banner {
+    width: 100%;
+    height: 215px;
+    background-color: grey;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+}
+
+#Name{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 20px;
+    font-family:
+}
+
+#tag-right{
+    text-align: center;
+    float: left;
+    margin: 40px -45px 0px 1px;
+    padding: 20px 0px 30px 0px;
+    height: 3vh;
+    width: 34.6vw;
+    border: 1px solid grey;
+   
+    
+}
+
+#tag-left{
+    text-align: center;
+    color: blue;
+    float: left;
+    margin: 40px 0px 0px 0px;
+    padding: 20px 0px 30px 0px;
+    height: 3vh;
+    width: 35vw;
+    border: 1px solid grey;
+    background-color: rgba(128, 128, 128, 0.08);
+    
+}
+#brief{
+    text-align: center;
+    margin: 30px 0px 2px 0px;
+}
+
+#list{
+    float: left;
+    text-align: center;
+    font-style: bold;
+    margin-top: 30px;
+}
+p1{
+    margin: 0px 170px 0px 20px;
+    
+}
+p2{
+   margin: 0px 250px 0px 100px;
+}
+p3{
+    margin: 0px 0px 0px 120px;
+    color: blue;
+}
+hr{
+    margin-left: 20px;
+    
+}
+.details{
+       margin: 20px 500px 45px 12px;
+    height: 30vh;
+}
+.details-left{
+    float: left;
+   
+}
+.details-right{
+    float: right;
+    text-align: center;
+    
+}
+.image img{
+    height: 30px;
+    width: 30px;
+    border: 1px solid rgba(202, 191, 191, 0.47);
+    border-radius: 100pt;
+    
+   
+}
+
+
